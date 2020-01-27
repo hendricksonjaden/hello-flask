@@ -1,1 +1,12 @@
-
+Git Steps
+how to start a new git rep
+$ git init
+add all items to the repo
+$ git add .
+commit your changes to be saved
+- Best practice to say initial commit when its the first commit
+$ git commit -m "commit message"
+For your first time go to github and create a new repo
+copy the second option and paste into your terminal
+Afterwards you will only need to do the following command to push your code to githut
+$ git push
