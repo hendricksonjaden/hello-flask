@@ -2,10 +2,16 @@ How to make a pip environment
 - Traverse to the folder you want to make an environment
 - In your terminal run this command
 $ pipenv --three
+
 Open vscode
 $ code .
+
 Check your pip file to make sure it has python 3
+
 Go back to your terminal and install your dependencies
+
 $ pipenv install dependenci_name
+
 To enter your pip environment after installing all dependencies run the following command
+
 $ pipenv shell
